@@ -1,6 +1,6 @@
 {
-    "subscription_id": "your_subscription_id",
-    "resource_group": "your_resource_group",
-    "workspace_name": "your_workspace_name",
+    "subscription_id": "f797c36a-e19f-4689-8c4c-26077eef9726",
+    "resource_group": "WTH-MLOPs",
+    "workspace_name": "MLOPs",
     "location": "Azure ML Location"
 }
