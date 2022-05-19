@@ -76,6 +76,7 @@ test_sample = bytes(test_sample, encoding="utf8")
 print(step_size)
 try:
     prediction = service.run(input_data=test_sample)
+    print("prediction")
     print(prediction)
 except Exception as e:
     result = str(e)
