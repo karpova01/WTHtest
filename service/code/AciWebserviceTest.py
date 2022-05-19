@@ -73,6 +73,7 @@ service = Webservice(name=service_name, workspace=ws)
 step_size=[3]
 test_sample = json.dumps({"data": step_size})
 test_sample = bytes(test_sample, encoding="utf8")
+print(test_sample)
 print(step_size)
 try:
     prediction = service.run(input_data=test_sample)
