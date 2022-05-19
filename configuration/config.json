@@ -2,5 +2,5 @@
     "subscription_id": "10eca58d-d2fb-4fcc-9e4b-bc6312fa39ee",
     "resource_group": "v-akarpova",
     "workspace_name": "v-akarpova_forDF",
-    "location": "Azure ML Location"
+    "location": "westeurope"
 }
